@@ -83,8 +83,7 @@ For any questions or contributions, feel free to open an issue or submit a pull 
 
 
 Addtional Reference:
-Workflow Automation System Flowchart
-![alt text](./main/WAS_Flowchart.png)
+![Workflow Automation System Flowchart](https://raw.githubusercontent.com/Rayson3141/Workflow-Automation-System/main/WAS_Flowchart.png)
 
 Public Database (Experiment Database):
-[Activity Database (Google Sheet)](https://docs.google.com/spreadsheets/d/1e4GD2dp9pZwx0wMeYgwavWVZuX0ebjLvoOQp8YaVVR4/edit?usp=sharing)
+![Activity Database (Google Sheet)](https://docs.google.com/spreadsheets/d/1e4GD2dp9pZwx0wMeYgwavWVZuX0ebjLvoOQp8YaVVR4/edit?usp=sharing)
